@@ -1,0 +1,25 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri": "mysql://root:@localhost/flask_phythonholic",
+    "prod_uri":"mysql://root:@localhost/flask_phythonholic",
+    "fb_url":"https://facebook.com/ManishKirnapure",
+    "tw_url":"https://twitter.com/ashumani",
+    "gh_url": "https://github.com/Ashumani",
+    "blog_name": "Pythonholic",
+    "tag_line": "Heaven for programmers",
+    "gmail-user":"yourmail@gmail.com",
+    "gmail-password":"your_mail_password",
+    "about_text": "It’s not whether you get knocked down, it’s whether you get up." ,
+    "no_of_posts": 2,
+    "login_image":"login.svg",
+    "admin_user":"Manish",
+    "admin_password": "Ashumani",
+    "upload_location":"home/manish/Desktop/python/Untitled Folder/flask_learning/Flask_tutorial/static",
+    "login_image": "flask-python.png"
+
+
+  }
+
+}
